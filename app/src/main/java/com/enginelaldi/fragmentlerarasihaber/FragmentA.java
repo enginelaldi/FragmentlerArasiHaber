@@ -39,6 +39,7 @@ public class FragmentA extends Fragment implements View.OnClickListener{
         comm = (Communicator) getActivity();
 
     }
+    //burada bir yorum var
 
     @Override
     public void onClick(View view) {
