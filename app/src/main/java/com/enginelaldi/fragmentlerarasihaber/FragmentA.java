@@ -43,6 +43,7 @@ public class FragmentA extends Fragment implements View.OnClickListener{
     //bi yorum daha
     //yorum ekledim
     //bi daha
+    //son yorum
 
     @Override
     public void onClick(View view) {
